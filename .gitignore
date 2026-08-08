@@ -5,3 +5,11 @@ dist
 *.log
 .vite
 *.tsbuildinfo
+node_modules/
+.next/
+tsconfig.tsbuildinfo
+.env.local
+node_modules/
+.next/
+tsconfig.tsbuildinfo
+.env.local
